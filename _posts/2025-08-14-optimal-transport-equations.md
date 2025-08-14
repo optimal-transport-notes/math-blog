@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "Optimal transport equations example"
 date: 2025-08-14
